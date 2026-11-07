@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "70% Intense Dark Truffles",
+    "category": "dark",
+    "description": "Rich dark ganache rolled in unsweetened raw Dutch cocoa powder.",
+    "pack": "Box of 6",
+    "price": 249,
+    "image": "https://images.unsplash.com/photo-1490750967868-88aa4486c946?w=600&auto=format&fit=crop&q=80"
+  },
+  {
+    "id": 2,
+    "name": "Roasted Almond Rocks",
+    "category": "milk",
+    "description": "Slow-roasted Californian almonds coated in velvety milk chocolate.",
+    "pack": "150g Box",
+    "price": 199,
+    "image": "https://images.unsplash.com/photo-1508615039623-a25605d2b022?w=600&auto=format&fit=crop&q=80"
+  },
+  {
+    "id": 3,
+    "name": "Creamy White Pistachio Bar",
+    "category": "white",
+    "description": "Silky cocoa butter white chocolate blended with crunchy Iranian pistachios.",
+    "pack": "100g Bar",
+    "price": 220,
+    "image": "https://images.unsplash.com/photo-1526047932273-341f2a7631f9?w=600&auto=format&fit=crop&q=80"
+  },
+  {
+    "id": 4,
+    "name": "Festive Celebration Hamper",
+    "category": "specials",
+    "description": "Customizable luxury gift basket with 12 assorted truffles, barks, and message card.",
+    "pack": "Luxury Box",
+    "price": 650,
+    "image": "https://images.unsplash.com/photo-1464820453369-31d2c0b651af?w=600&auto=format&fit=crop&q=80"
+  }
+]
