@@ -3,7 +3,7 @@ let allProducts = [];
 
 async function initCatalog() {
   try {
-    const responsible = await fetch('products.json');
+    const response = await fetch('products.json');
     allProducts = await response.json();
     renderProducts(allProducts);
     setupFilters();
