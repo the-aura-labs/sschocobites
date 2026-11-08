@@ -34,5 +34,14 @@
     "pack": "Luxury Box",
     "price": 650,
     "image": "https://images.unsplash.com/photo-1464820453369-31d2c0b651af?w=600&auto=format&fit=crop&q=80"
+  },
+  {
+    "id": 5,
+    "name": "Creamy White Mango bar",
+    "category": "specials",
+    "description": "Customizable luxury gift basket with 10 assorted truffles, barks, and message card.",
+    "pack": "candies",
+    "price": 650,
+    "image": "https://images.unsplash.com/photo-1464820453369-31d2c0b651af?w=600&auto=format&fit=crop&q=80"
   }
 ]
