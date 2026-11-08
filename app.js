@@ -1,10 +1,9 @@
-// Replace with friend's mom's WhatsApp phone number (with country code, no + or spaces, e.g., 919876543210)
 const WHATSAPP_NUMBER = "9603155131";
 let allProducts = [];
 
 async function initCatalog() {
   try {
-    const response = await fetch('products.json');
+    const res = await fetch(`products.json?v=${Date.now()}`);
     allProducts = await response.json();
     renderProducts(allProducts);
     setupFilters();
